@@ -11,7 +11,20 @@ body{
 /* .carousel-caption{
     margin-bottom: 200px;
 } */
-.img-resize{
-    width: 150px;
-    height: 150px;
+.footer-height{
+    height:300px;
+}
+.bg-footer-color{
+    background-color: #161616;
+}
+
+/* registaion button in join section */
+.btn-primary-mod{
+    background-color: white;
+    color:#289BDE;
+    border-radius: 5px;
+}
+.btn-primary-mod:hover{
+    background-color: rgb(218, 214, 214);
+    color:#289BDE;
 }
