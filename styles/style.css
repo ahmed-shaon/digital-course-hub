@@ -1,6 +1,17 @@
 /* .mod-position{
     bottom: 300px;
 } */
-.carousel-caption{
-    margin-bottom: 300px;
+/* import google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* externl css */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* .carousel-caption{
+    margin-bottom: 200px;
+} */
+.img-resize{
+    width: 150px;
+    height: 150px;
 }
