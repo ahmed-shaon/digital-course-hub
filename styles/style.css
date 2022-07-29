@@ -9,14 +9,8 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 /* .carousel-caption{
-    margin-bottom: 200px;
+    margin-bottom: 150px;
 } */
-.footer-height{
-    height:300px;
-}
-.bg-footer-color{
-    background-color: #161616;
-}
 
 /* registaion button in join section */
 .btn-primary-mod{
@@ -28,6 +22,27 @@ body{
     background-color: rgb(218, 214, 214);
     color:#289BDE;
 }
+.font-s1{
+    font-size: 15px;
+}
+.font-s2{
+    font-size: 9px;
+}
 p{
-    font-size: 12px;
+    font-size: 13px;
+}
+h5{
+    font-size: 15px;
+}
+.fa-star{
+    color:rgb(255, 187, 0);
+}
+.fa-star-half-stroke{
+    color:rgb(255, 187, 0);
+}
+.footer-height{
+    height:300px;
+}
+.bg-footer-color{
+    background-color: #161616;
 }
